@@ -1,0 +1,11 @@
+{
+    "require": {
+        "gregwar/captcha": "^1.1",
+        "illuminate/session": "^5.2",
+        "gregwar/cache": "^1.0",
+        "phine/phar": "^1.0",
+        "gregwar/image": "^2.0",
+        "guzzlehttp/guzzle": "^6.2",
+        "ramsey/uuid": "^3.5"
+    }
+}
